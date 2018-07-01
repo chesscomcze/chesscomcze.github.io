@@ -1,6 +1,6 @@
 ### Proč nereprezentujete Českou republiku v šachu přes Internet?
 
-My tedy ano - na serveru chess.com.
+My tedy ano - na serveru [chess.com](https://chess.com/).
 
 ### Bojíte se, že nejste tak silný hráč.
 
@@ -24,17 +24,17 @@ Můžete hrát zcela podle svých časových možností - tohle je zábava.
 
 ### Bojíte se, že to na Vás bude moc rychlé.
 
-  Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý tah máte typicky 3 dny. Loni jsme se umístili ve světové lize na 17. místě z 96 týmů.
+Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý tah máte typicky 3 dny. Loni jsme se umístili ve světové lize na 17. místě z 96 týmů.
 
 ### Bojíte se, že to na Vás bude moc pomalé.
 
-Hrajeme světové týmové soutěže také v bleskovém šachu, kde v premiérové světové lize jsme  mezi deseti nejlepšími týmy.
+Hrajeme světové týmové soutěže také v bleskovém šachu, kde v světové lize LCWL jsme mezi deseti nejlepšími týmy.
 
 ### Bojíte se, že na to budete potřebovat peníze.
 
-Tento server nabízí všechny služby potřebné pro hraní zadarmo, naprostá většina hráčů nepoužívá žádný placený program. A hráči s FIDE titulem - ti nemusí platit vůbec ...
+Tento server nabízí všechny služby potřebné pro hraní zadarmo, naprostá většina hráčů nepoužívá žádný placený tarif. A hráči s FIDE titulem - ti nemusí platit vůbec ...
 
-### Bojíte se, že nebude na čem hrát.
+### Bojíte se, že nebude mít na čem hrát.
 
 Je možné hrát nejen z počítače, ale i z chytrého telefonu nebo tabletu.
 
