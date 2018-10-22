@@ -24,11 +24,11 @@ Můžete hrát zcela podle svých časových možností - tohle je zábava.
 
 ### Bojíte se, že to na Vás bude moc rychlé.
 
-Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý tah máte typicky 3 dny. Loni jsme se umístili ve světové lize na 17. místě z 96 týmů.
+Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý tah máte typicky 3 dny. Loni jsme se umístili ve světové lize na 17. místě z 96 týmů. Letos bojujeme o postup z druhé ligy do první a k úspěchu nám chybí jen kousek.
 
 ### Bojíte se, že to na Vás bude moc pomalé.
 
-Hrajeme světové týmové soutěže také v bleskovém šachu, kde v světové lize LCWL jsme mezi deseti nejlepšími týmy.
+Hrajeme světové týmové soutěže také v bleskovém šachu, kde v světové lize LCWL hrajeme okolo poloviny startovního pole (a potřebujeme posílit, abychom se dostali výše).
 
 ### Bojíte se, že na to budete potřebovat peníze.
 
@@ -39,5 +39,5 @@ Tento server nabízí všechny služby potřebné pro hraní zadarmo, naprostá 
 Je možné hrát nejen z počítače, ale i z chytrého telefonu nebo tabletu.
 
 ### Tak se pořád nebojte, zkuste to ...
-## ... a zaregistruje se na https://chess.com,
-## kde se přihlásíte do klubu Team of the Czech Republic.
+## ... a zaregistruje se na [chess.com](https://chess.com/),
+## kde se přihlásíte do klubu [Team of the Czech Republic](https://www.chess.com/club/team-of-the-czech-republic/).
