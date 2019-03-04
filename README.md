@@ -24,11 +24,11 @@ Můžete hrát zcela podle svých časových možností - tohle je zábava.
 
 ### Bojíte se, že to na Vás bude moc rychlé.
 
-Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý tah máte typicky 3 dny. Loni jsme se umístili ve světové lize na 17. místě z 96 týmů. Letos bojujeme o postup z druhé ligy do první a k úspěchu nám chybí jen kousek.
+Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý tah máte typicky 3 dny. Loni se nám povedl husarský kousek a postoupili jsme do nejvyšší ligy, mezi 10 nejlepších zemí na světě (z cca 100 zúčastněných).
 
 ### Bojíte se, že to na Vás bude moc pomalé.
 
-Hrajeme světové týmové soutěže také v bleskovém šachu, kde v světové lize LCWL hrajeme okolo poloviny startovního pole (a potřebujeme posílit, abychom se dostali výše).
+Hrajeme světové týmové soutěže také v bleskovém šachu, kde v světové lize LCWL hrajeme v horní polovině startovního pole (a potřebujeme posílit, abychom se dostali výše).
 
 ### Bojíte se, že na to budete potřebovat peníze.
 
