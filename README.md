@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars1.githubusercontent.com/u/40140224">
+</p>
+
 ### Proč nereprezentujete Českou republiku v šachu přes Internet?
 
 My tedy ano - na serveru [chess.com](https://chess.com/).
