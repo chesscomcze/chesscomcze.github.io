@@ -32,7 +32,7 @@ Hrajeme světové týmové soutěže v korespondenčním šachu, kdy na každý 
 
 ### Bojíte se, že to na Vás bude moc pomalé.
 
-Hrajeme světové týmové soutěže také v bleskovém šachu, kde v světové lize LCWL hrajeme v horní polovině startovního pole (a potřebujeme posílit, abychom se dostali výše).
+Hrajeme světové týmové soutěže také v bleskovém a rapid šachu, kde v světové lize LCWL hrajeme v horní polovině startovního pole (a potřebujeme posílit, abychom se dostali výše).
 
 ### Bojíte se, že na to budete potřebovat peníze.
 
