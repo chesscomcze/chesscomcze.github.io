@@ -45,3 +45,5 @@ Je možné hrát nejen z počítače, ale i z chytrého telefonu nebo tabletu.
 ## Tak se pořád nebojte, zkuste to ...
 ## ... a zaregistruje se na [chess.com](https://chess.com/),
 ## kde se přihlásíte do klubu [Team of the Czech Republic](https://www.chess.com/club/team-of-the-czech-republic/).
+
+### Pokud máte nějaký dotaz, pište na chesscomcze (at) gmail.com.
